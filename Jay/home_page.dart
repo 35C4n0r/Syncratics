@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/services.dart';
-import 'package:one_plus_file_manager/reusable_card.dart';
+import 'reusable_card.dart';
 import 'package:flutter/services.dart';
 import 'main.dart';
 import 'package:flutter/material.dart';
